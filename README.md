@@ -35,6 +35,6 @@ Mysql:https://www.youtube.com/watch?v=uj4OYk5nKCg
 Angular:https://www.youtube.com/watch?v=Xu7R_aMz070
 
 In this repository backend jar files are uploaded,download it and extract all then import on sts and run.
-Also frontend scr file are uploaded open on vscode and run these files.
+Also frontend scr jar file are uploaded open on vscode and run these files.
 
 ##To see excact flow of execution visit this youtube link:https://youtu.be/FRgekuRv5d4?feature=shared
