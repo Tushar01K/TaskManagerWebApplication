@@ -26,6 +26,7 @@ Database: Mysql
 Frontend: Html,Css,Angular
 
 ##Intallation
+
 vs code:https://www.youtube.com/watch?v=bN6DE-4uFNo
 
 sts:https://www.youtube.com/watch?v=gv3s5BiEexU
