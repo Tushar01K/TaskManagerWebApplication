@@ -19,6 +19,7 @@ This is a Task Manager web application developed as an assignment for W3villa Te
 **Testing:** Thorough testing is conducted to ensure all functionalities work as expected and handle edge cases appropriately.
 
 ##Technologies Used
+
 Backend: Spring Boot
 
 Database: Mysql
